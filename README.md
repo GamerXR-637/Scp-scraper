@@ -1,3 +1,8 @@
+# Notice
+- This was improve with Github Copilot AI
+- The original source code was made by the Cool person Rakhadjo URL: https://github.com/rakhadjo/scp-scraper/tree/master
+- The output will not be the same as the original one.
+---------------------------
 # SCP Foundation Web Scraper
 This is a web scraper for the SCP Wikidot website for SCP entities. Returns them in a JSON format (see schema below). To be used in tandem with my personal scp-api but feel free.
 
